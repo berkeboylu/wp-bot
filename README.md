@@ -16,6 +16,6 @@ pip install selenium
 ```
 
 ## versions 
-|id|dd|mm|yyyy|
-|--|--|--|----|
-|v1|05|04|2020|
+|id|dd/mm/yyyy|
+|--|----------|
+|v1|05/04/2020|
